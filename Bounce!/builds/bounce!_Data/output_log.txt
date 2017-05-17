@@ -1,0 +1,158 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\AudioToolkit_FreeVersion.dll (this message is harmless)
+Loading C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\AudioToolkit_FreeVersion.dll into Unity Child Domain
+- Completed reload, in  0.061 seconds
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sonata\Documents\Roll-a-ball\builds\bounce!_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 50Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'PickUp (15)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (6)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (13)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (10)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (5)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (4)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (7)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (8)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (14)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (12)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (11)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'PickUp (9)') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 1.743429 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2178 -> priority: 1 
+  Thread -> id: 469c -> priority: 1 
