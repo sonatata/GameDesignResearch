@@ -2,7 +2,7 @@
 A collection of games (mostly minigames during game jams) designed under 24 hrs each as a part of a summer research opportunity. Unity was mostly used as a tool for building these games. The games made are  Bounce!, a 3-d take on a nokia mobile game that I played all the time, and BirdUp which is based on a meme.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 you need to have Unity to view the editable game view which is available in Windows and Mac only.
 
